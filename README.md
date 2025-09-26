@@ -1,6 +1,6 @@
 Citation to BibTeX
     @techreport{Bolt-Dataset,
-      author      = {Wang, Yaqi and Wei, Xiukun and Wu, Donghua and Wu, Siqi and Xia, Huaze},  % 此处添加了逗号
+      author      = {Wang, Yaqi and Wei, Xiukun and Wu, Donghua and Wu, Siqi and Xia, Huaze}, 
       title       = {Bolt-Dataset: A Dataset for Loose Bolt Detection},
       institution = {Beijing Jiaotong University},  
       year        = {2025},  
