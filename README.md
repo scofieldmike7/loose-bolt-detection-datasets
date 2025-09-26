@@ -1,4 +1,5 @@
 Citation to BibTeX
+
     @techreport{Bolt-Dataset,
       author      = {Wang, Yaqi and Wei, Xiukun and Wu, Donghua and Wu, Siqi and Xia, Huaze}, 
       title       = {Bolt-Dataset: A Dataset for Loose Bolt Detection},
@@ -9,4 +10,5 @@ Citation to BibTeX
       note        = {Version 1.0}
     }
 Citation to GB/T 7714-2015
+
     Wang Yaqi, Wei Xiukun, Wu Donghua, et al. Bolt-Dataset: A Dataset for Loose Bolt Detection[R]. Beijing: Beijing Jiaotong University, 2025. https://github.com/scofieldmike7/loose-bolt-detection-datasets. Version 1.0.
